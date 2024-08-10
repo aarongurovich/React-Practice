@@ -11,17 +11,26 @@ const projects = [
     image: './assets/images/birthday.PNG',
   },
 
+
+  {
+    title: 'Review Section',
+    description: 'Can browse through several reviews from different people.',
+    link: 'https://reviews-bvb.pages.dev/',
+    image: './assets/images/reviews.PNG',
+  },
+
+  {
+    title: 'Q & A Section',
+    description: 'Can browse through different questions and answers',
+    link: 'https://qandacomponent.pages.dev/',
+    image: './assets/images/QandA.PNG',
+  },
+
   {
     title: 'Tours Website',
     description: 'Can browse through several tour options.',
     link: 'https://tour-website.pages.dev/',
     image: './assets/images/tours.PNG',
-  },
-  {
-    title: 'Reviews Component',
-    description: 'Can browse through several reviews from different people.',
-    link: 'https://reviews-bvb.pages.dev/',
-    image: './assets/images/reviews.PNG',
   },
 
  
