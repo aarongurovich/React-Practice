@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+.project-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.project-card {
+  background: #fff;
+  border-radius: 8px;
+  padding: 16px;
+  width: 300px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s;
+}
+
+.project-card img {
+  max-width: 100%;
+  border-radius: 4px;
+}
+
+.project-card h3 {
+  margin-top: 16px;
+  font-size: 24px;
+}
+
+.project-card p {
+  font-size: 16px;
+  color: #555;
+}
+
+.project-card a {
+  display: inline-block;
+  margin-top: 12px;
+  text-decoration: none;
+  color: #61dafb;
+}
+
+.project-card:hover {
+  transform: scale(1.05);
+}
