@@ -6,29 +6,17 @@ import ProjectCard from './ProjectCard';
 const projects = [
   {
     title: 'Tours Website',
-    description: 'Can browse through several tour options. Extra practice using useEffect and useState.',
+    description: 'Can browse through several tour options.',
     link: 'https://tour-website.pages.dev/',
     image: './assets/images/tours.PNG',
   },
   {
-    title: 'Random Movie Generator',
-    description: 'Can Generate Random movie based on certain filters such as genre, ratings, date published, etc..',
-    link: 'https://movie-generator-app.pages.dev/',
-    image: './assets/images/randommovie.PNG',
+    title: 'Reviews Component',
+    description: 'Can browse through several reviews from different people.',
+    link: 'https://c5fd88fa.reviews-bvb.pages.dev/',
+    image: './assets/images/reviews.PNG',
   },
-  {
-    title: 'Reddit Clone',
-    description: 'Can search for posts and explore different topics across various communities.',
-    link: 'https://reddit-client-5io.pages.dev/',
-    image: './assets/images/redditclone.PNG',
-  },
-  {
-    title: 'Portfolio Website',
-    description: 'Used Three.js to create dynamic cube. Links to github, linkedin, and resume on website.',
-    link: 'https://aarongurovich.com',
-    image: './assets/images/portfol.PNG',
-  },
-  
+
  
 ];
 
