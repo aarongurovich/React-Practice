@@ -33,6 +33,13 @@ const projects = [
     image: './assets/images/tours.PNG',
   },
 
+  {
+    title: 'Menu',
+    description: 'Can browse dynamic menu. Can change categories for the menu',
+    link: 'https://f0fdefed.menu-9bc.pages.dev/',
+    image: './assets/images/menu.PNG',
+  },
+
  
 ];
 
