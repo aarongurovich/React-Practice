@@ -8,7 +8,7 @@ const projects = [
     title: 'Tours Website',
     description: 'Can browse through several tour options. Extra practice using useEffect and useState',
     link: 'https://tour-website.pages.dev/',
-    image: require('C:/Users/Aaron/react-portfolio/src/assets/images/tours.png'),
+    image: require('C:/Users/Aaron/react-portfolio/src/assets/images/tours.PNG'),
   },
   {
     title: 'Random Movie Generator',
@@ -25,7 +25,7 @@ const projects = [
   {
     title: 'Portfolio Website',
     description: 'Can search for posts and explore different topics across various communities.',
-    link: 'https://reddit-client-5io.pages.dev/',
+    link: 'https://aarongurovich.com',
     image: require('C:/Users/Aaron/react-portfolio/src/assets/images/redditclone.PNG'),
   },
  
