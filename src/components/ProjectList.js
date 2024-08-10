@@ -47,6 +47,13 @@ const projects = [
     image: './assets/images/tabs.PNG',
   },
 
+  {
+    title: 'Slider',
+    description: "Dynamic slideshow of different reviews.",
+    link: 'https://slider-tb7.pages.dev/',
+    image: './assets/images/slider.PNG',
+  },
+
  
 ];
 
