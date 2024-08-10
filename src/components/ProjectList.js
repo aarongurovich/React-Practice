@@ -40,6 +40,13 @@ const projects = [
     image: './assets/images/menu.PNG',
   },
 
+  {
+    title: 'Tabs',
+    description: "Can browse through dynamic tabs. Can see different people's career and experience",
+    link: 'https://tabs-9ni.pages.dev/',
+    image: './assets/images/tabs.PNG',
+  },
+
  
 ];
 
