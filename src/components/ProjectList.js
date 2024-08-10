@@ -6,7 +6,7 @@ import ProjectCard from './ProjectCard';
 const projects = [
   {
     title: 'Tours Website',
-    description: 'Can browse through several tour options. Extra practice using useEffect and useState',
+    description: 'Can browse through several tour options. Extra practice using useEffect and useState.',
     link: 'https://tour-website.pages.dev/',
     image: './assets/images/tours.PNG',
   },
@@ -21,6 +21,12 @@ const projects = [
     description: 'Can search for posts and explore different topics across various communities.',
     link: 'https://reddit-client-5io.pages.dev/',
     image: './assets/images/redditclone.PNG',
+  },
+  {
+    title: 'Portfolio Website',
+    description: 'Used Three.js to create dynamic cube. Links to github, linkedin, and resume on website.',
+    link: 'https://aarongurovich.com',
+    image: './assets/images/portfol.PNG',
   },
   
  
