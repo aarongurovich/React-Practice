@@ -21,7 +21,7 @@ const projects = [
 
   {
     title: 'Q & A Section',
-    description: 'Can browse through different questions and answers',
+    description: 'Can browse through different questions and answers.',
     link: 'https://qandacomponent.pages.dev/',
     image: './assets/images/QandA.PNG',
   },
@@ -35,7 +35,7 @@ const projects = [
 
   {
     title: 'Menu',
-    description: 'Can browse dynamic menu. Can change categories for the menu',
+    description: 'Can browse dynamic menu. Can change categories for the menu.',
     link: 'https://f0fdefed.menu-9bc.pages.dev/',
     image: './assets/images/menu.PNG',
   },
