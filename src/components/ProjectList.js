@@ -22,12 +22,7 @@ const projects = [
     link: 'https://reddit-client-5io.pages.dev/',
     image: require('C:/Users/Aaron/react-portfolio/src/assets/images/redditclone.PNG'),
   },
-  {
-    title: 'Portfolio Website',
-    description: 'Can search for posts and explore different topics across various communities.',
-    link: 'https://aarongurovich.com',
-    image: require('C:/Users/Aaron/react-portfolio/src/assets/images/redditclone.PNG'),
-  },
+ 
  
 ];
 
