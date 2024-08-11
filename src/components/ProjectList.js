@@ -54,6 +54,13 @@ const projects = [
     image: './assets/images/slider.PNG',
   },
 
+  {
+    title: 'Alt Lorem Ipsum Generator',
+    description: "Generates default text that's cooler than lorem ipsum.",
+    link: 'https://lorem-ipsum-9lc.pages.dev/',
+    image: './assets/images/lorem.PNG',
+  },
+
  
 ];
 
